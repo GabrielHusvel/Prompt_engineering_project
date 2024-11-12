@@ -1,0 +1,7 @@
+matplotlib<3.9.99
+google-generativeai<0.8.99
+google-cloud-aiplatform<1.71.99
+pandas<2.2.99
+seaborn<0.13.99
+vertexai<1.71.99
+PyYAML<6.0.99
