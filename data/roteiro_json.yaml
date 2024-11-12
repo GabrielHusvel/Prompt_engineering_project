@@ -1,0 +1,7 @@
+roteiro:
+  atenas: |
+    Liste 3 pontos turísticos importantes de Atenas, incluindo o número anual de visitantes e uma breve descrição de cada um, no seguinte formato JSON: 
+    {"city": "Atenas", "tourist_spots": [{"name": "Nome do local", "description": "Breve descrição", "visitors_per_year": "Número de visitantes por ano"}]}
+  roma: |
+    Liste 3 pontos turísticos importantes de Roma, incluindo o número anual de visitantes e uma breve descrição de cada um, no seguinte formato JSON: 
+    {"city": "Roma", "tourist_spots": [{"name": "Nome do local", "description": "Breve descrição", "visitors_per_year": "Número de visitantes por ano"}]}
